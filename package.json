@@ -1,0 +1,26 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "kickstart project for https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/t/lecture/9020680?start=0 udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushughes/kickstart-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushughes/kickstart-udemy/issues"
+  },
+  "homepage": "https://github.com/rushughes/kickstart-udemy#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "ganache-cli": "^6.1.0",
+    "mocha": "^5.1.1",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.26"
+  }
+}
